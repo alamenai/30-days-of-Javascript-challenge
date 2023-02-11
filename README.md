@@ -78,4 +78,12 @@ Objects
  <a href="./08">08</a>
 </td>
 <tr>
+<tr>
+<td>
+High Order Functions
+</td>
+<td>
+ <a href="./09">09</a>
+</td>
+<tr>
 </table>

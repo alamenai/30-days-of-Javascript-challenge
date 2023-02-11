@@ -72,7 +72,7 @@ Functions
 <tr>
 <tr>
 <td>
-Functions
+Objects
 </td>
 <td>
  <a href="./08">08</a>
